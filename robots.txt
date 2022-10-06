@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mucahitkurtlar.github.io/sitemap.xml
